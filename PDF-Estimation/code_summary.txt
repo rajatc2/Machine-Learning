@@ -1,0 +1,5 @@
+0. Prepare Data
+1. Per-Dimension Discrete PDF
+2. K-Means PDF
+3. Gaussian Mixture Model (GMM)
+4. Segmentation (using discrete PDF) after Applying PCA
