@@ -1,0 +1,5 @@
+0. Prepare Data
+0a. Data Preprocess using Augmentaion
+0b. Helper Functions
+1. Fine-Tune Pre-trained Network (ResNet) on Pets
+2. Building own network from scratch
