@@ -1,0 +1,5 @@
+0. Load and Visualization
+1. Feature Analysis and Simple Rules for Classification
+1a. Feature Analysis
+1b. Rules from Tree
+2. Species Classifier using Logistic Regression
