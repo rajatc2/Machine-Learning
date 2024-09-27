@@ -1,0 +1,6 @@
+0. Prepare Data
+1. CLIP Preditcion
+1a. CLIP Zero-Shot Preditcion
+1b. CLIP zero-shot performance on Flowers 102
+1c. CLIP linear probe performance on Flowers 102
+2. Nearest-Neighbor Classifier on CLIP Features
