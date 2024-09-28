@@ -1,0 +1,21 @@
+0. Initialization and functions
+1. KNN, Naive Bayes and Linear Logistic Regression
+1a. KNN
+1b. Naive Bayes
+1c. Linear Regression
+1d. Validation Error vs Training Size
+1e. Parameter Selection
+1f. Improvement on kNN principle common analysis (PCA) and augmentation technique
+2. MLP using Torch
+2a. MLP on original data
+2ai. Epochs and Losses
+2aii. Learning Rates and Losses
+2aiii. Improving the Model
+2b. MLP after using PCA and Augmentation on Data
+3. Clustering and Fast Retrieval with KNN and Faiss
+3a. Clustering
+3b. Fast Retrieval
+4. PCA and Data Compression
+4a. PCA
+4b. Fast Retrieval after PCA
+4c. MDS and t-SNE
