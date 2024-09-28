@@ -1,0 +1,11 @@
+0. Load and Baseline Prediction
+1. Implement and test KNN, Naive Bayes (NB), and Linear Regression (LR)
+1a. KNN
+1b. Naive Bayes
+1c. Linear Regression
+1d. Most Important Features
+1e. Improve Performance
+2. Model Complexity of Tree Regressor
+2a. Decision Tree
+2b. Random Forest
+2c. Gradient Boosting
