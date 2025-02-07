@@ -6,4 +6,4 @@ Each folder may contain the following files:
 4. **Data files** – Input datasets used for analysis and calculations.  
 
 ## Documentation  
-Techniques used in these projects have been documented in **`Techniques.docx`**, providing an overview of the methodologies applied across different analyses.  
+Techniques used in these projects have been documented in **`Techniques.pdf`**, providing an overview of the methodologies applied across different analyses.  
